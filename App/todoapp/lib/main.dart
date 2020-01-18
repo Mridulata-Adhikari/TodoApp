@@ -13,10 +13,10 @@ class MyApp extends StatelessWidget {
       title: 'Todo App',
       theme: ThemeData(
         primarySwatch: Colors.grey,
-      ),
+      ),  
       home: MyHomePage(title: 'Todo App'),
     );
-  }
+  } 
 }
 
 class MyHomePage extends StatefulWidget {
